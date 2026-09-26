@@ -1,0 +1,2 @@
+design,rtl_files,sdc,status,sweep_points,best_period_ns,freq_mhz,timing_met,synth_slack_ps,synth_area_um2,synth_cells,synth_power_mw,pdp_pj,pnr_slack_ns,pnr_cell_area_um2,pnr_core_area_um2,pnr_density,pnr_power_mw,drc_violations,gds,notes
+counter8,counter8.v,counter8.sdc,OK,1,2,500,yes,382.3,335.32,20,0.250944,0.501888,,,,,,,no,

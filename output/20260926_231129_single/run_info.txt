@@ -1,0 +1,9 @@
+run_id: 20260926_231129_single
+mode: single
+sweep: False
+selection: min_period
+user: Harsh
+host: vlsiece24.iitr.ac.in
+libraries:
+  /home/lib/sky130_hd/sky130_fd_sc_hd__tt_025C_1v80.lib
+work_dir: /home/Harsh/rtl2gds_work/runs/rtl2gds-designs/20260926_231129_single
